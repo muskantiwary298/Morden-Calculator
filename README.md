@@ -45,7 +45,7 @@ This project was created to practice front-end web development, JavaScript funct
 
 ## 👩‍💻 Author
 
-**Muskan Tiwari**
+**Muskan Kumari**
 
 B.Tech CSE (AI & ML) Student
 
